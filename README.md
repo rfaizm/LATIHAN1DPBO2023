@@ -40,5 +40,7 @@ Jika tidak tersedia nim di list maka keluar error, setelah program dijalankan ma
 
 ## Dokumentasi
 pada program Java
+![Screenshot (93)](https://user-images.githubusercontent.com/100756074/218909792-2ac2323e-4e23-4ce2-9954-1183373a12d6.png)
+
 
 
