@@ -24,7 +24,7 @@ Tiap atribut memiliki setter dan getternya masing-masing yang berada pada class 
 ## Alur Program
 **Semua program memiliki alur yang sama, hanya saja pada PHP tidak ada inputan dari user (data untuk CRUD dibuat hardcode).**
 
-**Di dalam list terdapat beberapa data dummy yang isinya data mahasiswa.
+**Di dalam list terdapat beberapa data dummy yang isinya data mahasiswa.**
 
 Pertama program akan menampilkan menu pilihan dan user diminta untuk menginput salah satu pilihan dari menu tersebut : 
 Menu perintahnya yaitu:
